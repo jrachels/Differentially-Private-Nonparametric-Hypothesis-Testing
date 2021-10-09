@@ -4,7 +4,7 @@ This was my first C++ project post-"hello world." The folder
 
 > Differentially-Private-Nonparametric-Hypothesis-Testing/DifferentiallyPrivateNonparametricHypthothesisTesting/ 
 
-contains the implementation of the differentially private analogs of the Mann-Whitney, Kruskal-Wallis, and Wilcoxon signed-rank tests from this paper: https://arxiv.org/pdf/1903.09364.pdf .
+contains the implementation of the differentially private analogs of the Mann-Whitney, Kruskal-Wallis, and Wilcoxon signed-rank tests from this paper: https://arxiv.org/pdf/1903.09364.pdf . 
 
 The functions are compatible with user-provided random number generators. I implement this with C++20 Concepts, so compiling this code requires C++20 support. 
 
@@ -17,3 +17,8 @@ includes basic tests for these functions. The tests are also examples for how to
 > Differentially-Private-Nonparametric-Hypothesis-Testing/Debug/DifPrivNonparametricHypthTestingTests.exe
 
 **For me, writing this code was just an exercise for learning C++ language features. I did not bother to test that my implementations of the algorithms matched the pseudocode from the above paper. If you plan to use this code, you will need to perform these tests yourself.**
+
+## References
+
+<a id="1">[1]</a> 
+Simon Couch, Zeki Kazan, Kaiyan Shi, Andrew Bray, and Adam Groce. Differentially private nonparametric hypothesis testing. *In Proceedings of the 2019 ACM Conference on Computer and Communications Security*, CCS ’19, New York, NY, USA, 2019. ACM.
