@@ -4,9 +4,7 @@ This was my first C++ project post-"hello world." The folder
 
 > Differentially-Private-Nonparametric-Hypothesis-Testing/DifferentiallyPrivateNonparametricHypthothesisTesting/ 
 
-contains the implementation of the differentially private analogs of the Mann-Whitney, Kruskal-Wallis, and Wilcoxon signed-rank tests from this paper:
-
-https://arxiv.org/pdf/1903.09364.pdf
+contains the implementation of the differentially private analogs of the Mann-Whitney, Kruskal-Wallis, and Wilcoxon signed-rank tests from this paper: https://arxiv.org/pdf/1903.09364.pdf .
 
 The functions are compatible with user-provided random number generators. I implement this with C++20 Concepts, so compiling this code requires C++20 support. 
 
