@@ -14,7 +14,7 @@ The folder
 
 Differentially-Private-Nonparametric-Hypothesis-Testing/DifPrivNonparametricHypthTestingTests/
 
-includes basic tests for these functions. The tests are also examples for how to use compute p-values. You can run the tests by running 
+includes basic tests for these functions. The tests are also examples for how to compute p-values. You can run the tests by running 
 
 Differentially-Private-Nonparametric-Hypothesis-Testing/Debug/DifPrivNonparametricHypthTestingTests.exe
 
