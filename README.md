@@ -22,3 +22,4 @@ includes basic tests for these functions. The tests are also examples for how to
 
 <a id="1">[1]</a> 
 Simon Couch, Zeki Kazan, Kaiyan Shi, Andrew Bray, and Adam Groce. Differentially private nonparametric hypothesis testing. *In Proceedings of the 2019 ACM Conference on Computer and Communications Security*, CCS ’19, New York, NY, USA, 2019. ACM.
+ 
